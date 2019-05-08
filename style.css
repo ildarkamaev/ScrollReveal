@@ -1,0 +1,55 @@
+body {
+    margin-top: 6rem;
+    font-family: 'Roboto';
+}
+
+.navbar {
+    background-color: #000;
+    opacity: 0.9;
+    font-family: 'Roboto';
+}
+
+.navbar-brand {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.showcase {
+    min-height: 30rem;
+}
+
+.showcase img {
+    max-height: 30rem;
+    width: auto;
+}
+
+#testimonial {
+    background: #f1f1f1;
+    padding: 4rem 0rem;
+    margin: 5rem 0rem;
+}
+
+#testimonial blockquote {
+    font-family: 'Josefin Sans';
+    font-weight: 300;
+    font-size: 1.6rem;
+}
+
+#testimonial p {
+    font-family: 'Josefin Sans';
+    font-weight: 300;
+    font-size: 1.2rem;
+}
+
+.info-left img {
+    max-width: 30rem;
+    height: auto;
+}
+
+#info1 {
+    min-height: 30rem;
+}
+
+#contact {
+    background: url(img/image3.png);
+}
